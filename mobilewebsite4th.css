@@ -1,0 +1,33 @@
+.bging4{
+	background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsRkrOgQQJyY0n5nzwp9fQVfKVCk3a_eyGw&usqp=CAU') ;
+    background-size:cover ;
+    height: 200vh;
+}
+.headfirst1{
+	color: white;
+	font-family: 'Roboto';
+	font-size: 30px;
+	font-weight: bold;
+    padding: 25px;
+}
+.cardlayout1{
+	background-color: white;
+	border-bottom-left-radius:12px ;
+	border-bottom-right-radius:12px ;
+	margin: 100px;
+	margin-top:15px ;
+}
+.cardcon1{
+	padding: 20px;
+}
+.headsecond1{
+	color: blue;
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight: bold;
+}
+.paraline1{
+	color: #6c6b70;
+	font-family: 'Roboto';
+	font-size: 13px;
+}

@@ -1,0 +1,23 @@
+.bging{
+	background-image: url('https://ik.imagekit.io/t9uu5qdjf/mobile_background.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1672224352722');
+background-size: cover;
+height: 100vh;
+
+
+}
+.layoutcard{
+	background-color:white;
+	height: 200px;
+	border-top-left-radius:20px ;
+	border-top-right-radius:20px ;
+	padding: 20px;
+}
+.heading{
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+.paraline{
+	font-family: 'Roboto';
+	color:darkgray;
+}
